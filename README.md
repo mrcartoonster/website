@@ -19,3 +19,5 @@ to! Also, follow them, they're the realist!
 * [Brian Shaler](https://github.com/brianshaler)
 * [Brian Douglas](https://github.com/bdougie)
 * [Max Stoiber](https://github.com/mxstbr)
+
+## Changelog
