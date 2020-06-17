@@ -100,4 +100,3 @@ repos:
 #   hooks:
 #   - id:  giticket
 #     args: ['--regex=PROJ-[0-9]', '--format={ticket} {commit_msg}']  # Optional
-
