@@ -13,6 +13,7 @@ theme:
   icon:
     repo: fontawesome/brands/github-alt
   favicon: images/favicon.ico
+  logo: images/favicon.ico
 nav:
  - Home: index.md
 markdown_extensions:
