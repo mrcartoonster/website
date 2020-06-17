@@ -1,1 +1,31 @@
-site_name: My Docs
+site_name: Evan Baird
+site_author: Evan Baird
+site_description: Yet another Python blog
+copyright: "Copyrgith &copy; 2020 Evan Baird"
+site_url: https://evanbaird.io
+repo_url: https://github.com/mrcartoonster/website
+repo_name: mrcartoonster/website
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    secondary: orange
+  icon:
+    repo: fontawesome/brands/github-alt
+  favicon: images/favicon.ico
+nav:
+ - Home: index.md
+markdown_extensions:
+ - markdown.extensions.codehilite:
+     guess_lang: false
+ - extra
+ - admonition
+ - codehilite
+extra:
+  social:
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/mrcartoonster/website
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/mrcartoonster
+  - icon: fontawesome/brands/dev
+    link: https://dev.to/mrcartoonster

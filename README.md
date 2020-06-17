@@ -1,7 +1,7 @@
 # First Personal Website
 
 I'm finally putting up a website! Using [Mkdocs](https://www.mkdocs.org/) and
-followed [Sean D Stewart's](https://seandstewart.io/) [Medium](https://medium.com/swlh/publish-a-static-website-in-a-day-with-mkdocs-and-netlify-3cc076d0efaf) tutorial.
+followed [Sean D Stewart's](https://seandstewart.io/) Medium [tutorial](https://medium.com/swlh/publish-a-static-website-in-a-day-with-mkdocs-and-netlify-3cc076d0efaf).
 If you're reading this, go and read his tutorial, it's badass. Other than that,
 sit back and look around and copy/fork the repo and make your own!
 
