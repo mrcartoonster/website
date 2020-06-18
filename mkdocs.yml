@@ -11,7 +11,7 @@ theme:
     primary: deep orange
     secondary: orange
   icon:
-    repo: fontawesome/brands/github-alt
+    repo: fontawesome/brands/github
   favicon: images/favicon.ico
   logo: images/8596846.jpg
 nav:
