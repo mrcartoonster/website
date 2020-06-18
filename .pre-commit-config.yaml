@@ -41,7 +41,7 @@ repos:
     -   id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]  # Preserve Markdown hard linebreaks
 -   repo: https://github.com/psf/black
-    rev: 88d12f88a97e5e4c8fd0d245df0a311e932fd1e1
+    rev: 19.10b0
     hooks:
     -   id: black
         args:
@@ -49,7 +49,7 @@ repos:
           - --line-length=79
           - --verbose
 -   repo: https://github.com/timothycrosley/isort
-    rev: 6df7ef4f2044a7d0eadff657e6e29ba0e6fee081
+    rev: 4.3.21
     hooks:
     -   id: isort
         args:
@@ -57,17 +57,17 @@ repos:
           - --use-parentheses
           - --balanced
 -   repo: https://gitlab.com/pycqa/flake8
-    rev: b6d3fcacff501a7d0a59dabc506614721e0b2918
+    rev: 3.8.3
     hooks:
     -   id: flake8
         args:
           - --doctests
 -   repo: https://github.com/asottile/add-trailing-comma
-    rev: 4737c82eefc7cbe6028bb5e2fc6619a38cd0de76
+    rev: v2.0.1
     hooks:
     -   id: add-trailing-comma
 -   repo: https://github.com/myint/docformatter
-    rev: 1cceff608f597fd9c07a266ea655d54a9cf494aa
+    rev: v1.3.1
     hooks:
       - id: docformatter
         args: [--in-place]
