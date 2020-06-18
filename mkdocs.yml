@@ -31,3 +31,5 @@ extra:
     link: https://twitter.com/mrcartoonster
   - icon: fontawesome/brands/dev
     link: https://dev.to/mrcartoonster
+  - icon: fontawesome/brands/gitter
+    link: https://gitter.im/Worldsworstpythonista/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
