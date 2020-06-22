@@ -27,4 +27,3 @@ to! Also, follow them, they're the realist!
 This repo will enforce our code of conduct that can be found
 [here](CODE_OF_CONDUCT).
 
-## Changelog
