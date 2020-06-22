@@ -28,7 +28,7 @@ markdown_extensions:
 extra:
   discus: evan-2
   social:
-  - icon: fontawesome/brands/github-alt
+  - icon: fontawesome/brands/github
     link: https://github.com/mrcartoonster/website
   - icon: fontawesome/brands/twitter
     link: https://twitter.com/mrcartoonster
