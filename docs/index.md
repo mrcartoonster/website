@@ -29,6 +29,19 @@ deeper. Also, I'll be honest. This site is just practice in writing tutorials
 so I can have samples to show Real Python that I can write Python articles and
 to give me a job :smirk:...
 
+## About that hiring
+
+If you're an employee of [Real Python](https://realpython.com/) and like 
+what you've read,throw me a bone or project :grin:. If in need of a weird but funny 
+Python dev, look no further. I'm your dude. View my repos to see if our talents
+align. Email me at mrcartoonster@icloud.com and I'll get back to you soon.
+Title the email "Python Job". I have a filter set to that so I can respond to
+them timely.
+
+If you would like to hire or invite me as a speaker, email me or get in touch
+with me through socials. Just start the email or messages  with "Speaker Oppertunity".
+Would love to give a talk. Would like to get my speaking chops going. Especially on any 
+of the articles you find on my site. 
 
 ## Contributers
 
