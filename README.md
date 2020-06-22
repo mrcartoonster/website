@@ -22,4 +22,9 @@ to! Also, follow them, they're the realist!
 * [Brian Douglas](https://github.com/bdougie)
 * [Max Stoiber](https://github.com/mxstbr)
 
+## Code of Conduct
+
+This repo will enforce our code of conduct that can be found
+[here](CODE_OF_CONDUCT).
+
 ## Changelog
