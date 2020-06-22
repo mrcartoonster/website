@@ -23,8 +23,24 @@ The format of the posts are going to be very *TLDR*(To long, didn't read)
 style. I'll post the main code, formulas and syntax at the top with a quick
 summary. Below that I'll go over the topic(s) you'll learn and the takeaways.
 I'll then point to further reading on the subject. My posts will be formatted
-like a [Real Python](https://realpython.com/) tutorial just with 95% shorter.
+like a [Real Python](https://realpython.com/) tutorial. Just 95% shorter.
 Chances are I'll link to a related Real Python tutorial if you want to go
 deeper. Also, I'll be honest. This site is just practice in writing tutorials
 so I can have samples to show Real Python that I can write Python articles and
-to give me a job 
+to give me a job :smirk:...
+
+
+## Contributers
+
+Below are people who support and sponsor me. This site is up and running
+because of them. I'm linking their repos. Go follow them, check out their stuff
+and give them a star!
+
+* [Lorena Mesa](https://github.com/lorenanicole)
+* [Peter Pistorius](https://github.com/peterp)
+* [Tom Preston-Werner](https://github.com/mojombo)
+* [Max Lynch](https://github.com/mlynch)
+* [Brian Shaler](https://github.com/brianshaler)
+* [Brian Douglas](https://github.com/bdougie)
+* [Max Stoiber](https://github.com/mxstbr)
+
