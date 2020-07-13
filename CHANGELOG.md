@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     * Linux
     * Digital Ocean
     * Awesome List Links
+  - Articles
+    * Pyenv
+    * Poetry
+    * List Comprehensions
+    * Typer password example
 
 
 ## [1.0.0] - 2020-06-22
