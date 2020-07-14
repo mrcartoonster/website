@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
   - Add Intro
   - Create sections
+    * Start Here!
+      * This will have the env setup with Pyenv, Poetry, and Pipx
     * Python
     * Linux
     * Digital Ocean
@@ -14,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Articles
     * Pyenv
     * Poetry
+    * Pipx
     * List Comprehensions
     * Typer password example
 
