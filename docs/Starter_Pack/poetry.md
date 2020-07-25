@@ -1,4 +1,4 @@
-# [Poetry](https://python-poetry.org/)
+# Poetry
 
 
 We've got `pyenv` rocking and rolling and installed the latest Python version.
