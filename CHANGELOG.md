@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     * Pipx
     * List Comprehensions
     * Typer password example
+    * Httpx Cat McGee Example using Httpx instead of Urlib
 
 
 ## [1.0.0] - 2020-06-22

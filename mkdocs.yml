@@ -16,6 +16,8 @@ theme:
   logo: images/8596846.jpg
 nav:
  - Home: index.md
+ - Starter_Pack: 
+   - Starter_Pack/pyenv.md
 markdown_extensions:
  - markdown.extensions.codehilite:
      guess_lang: false
