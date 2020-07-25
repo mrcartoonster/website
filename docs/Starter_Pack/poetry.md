@@ -1,4 +1,4 @@
-# Poetry
+# Poetry: The Ultimate Virtual Environment Maker!
 
 
 We've got `pyenv` rocking and rolling and installed the latest Python version.

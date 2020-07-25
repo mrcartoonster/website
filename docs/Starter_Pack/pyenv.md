@@ -1,4 +1,4 @@
-# Pyenv: The Ultimate Virtual Environment Maker!
+# Pyenv: The Ultimate Python Version Management System!
 
 
 Welcome to level 1 in properly handling Python virtural environments! In all of
