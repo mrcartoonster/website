@@ -20,6 +20,8 @@ nav:
    - Starter_Pack/start_here.md
    - Starter_Pack/pyenv.md
    - Starter_Pack/poetry.md
+ - "Privacy Policy"
+   - privacy_policy/privacy_policy.md
 markdown_extensions:
  - markdown.extensions.codehilite:
      guess_lang: false

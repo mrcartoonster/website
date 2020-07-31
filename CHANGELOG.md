@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Add Intro
   - Create sections
     * Start Here!
-      * This will have the env setup with Pyenv, Poetry, and Pipx
+      * This will have the env setup with Pyenv, Poetry, and Pipx, Ngrok
     * Python
     * Linux
     * Digital Ocean
