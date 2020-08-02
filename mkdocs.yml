@@ -16,7 +16,7 @@ theme:
   logo: images/8596846.jpg
 nav:
  - Home: index.md
- - "Starter Pack": 
+ - "Starter Pack" 
    - Starter_Pack/start_here.md
    - Starter_Pack/pyenv.md
    - Starter_Pack/poetry.md
